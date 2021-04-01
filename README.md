@@ -1,6 +1,8 @@
 # icstars-website
 
-This is a sample website for IC Stars
+This is a sample website for IC Stars.
+
+**Get here by going to https://tinyurl.com/icstars2021**
 
 View the github pages version [here](https://mcsnolte.github.io/icstars-website/).
 
