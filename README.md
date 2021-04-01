@@ -11,6 +11,11 @@ View the github pages version [here](https://mcsnolte.github.io/icstars-website/
 * [What is JSON?](https://www.w3schools.com/whatis/whatis_json.asp)
 * [Learn JSON in 10 Minutes](https://beginnersbook.com/2015/04/json-tutorial/)
 
+# jQuery
+
+* [jQuery vs React](https://upmostly.com/web-development/jquery-vs-react-the-ultimate-comparison-guide)
+* [jQuery Documentation](https://api.jquery.com/)
+
 # Web APIs
 
 * [What is a Web API?](https://www.w3schools.com/js/js_api_intro.asp)
