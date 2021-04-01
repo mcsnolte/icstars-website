@@ -12,4 +12,5 @@ View the github pages version [here](https://mcsnolte.github.io/icstars-website/
 # Web APIs
 
 * [What is a Web API?](https://www.w3schools.com/js/js_api_intro.asp)
+* [API List](https://apilist.fun/)
 * [Public APIs](https://github.com/public-apis/public-apis)
